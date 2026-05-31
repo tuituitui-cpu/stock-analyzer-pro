@@ -1,3 +1,5 @@
+import akshare_proxy_patch
+akshare_proxy_patch.install_patch("101.201.173.125", "", 50)
 import akshare as ak
 import mplfinance as mpf
 import pandas as pd
